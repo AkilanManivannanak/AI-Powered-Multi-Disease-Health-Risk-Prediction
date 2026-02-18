@@ -1,3 +1,4 @@
+![Cover](AI_Medicalproject_coverimage.png)
 # AI-Powered Multi-Disease Health Risk Prediction (17 Conditions) — Random Forest + CNN + Explainability
 
 An AI-driven **multi-disease screening and clinical decision-support prototype** that predicts risk across **17 chronic/genetic conditions** using **modular ML pipelines**:
