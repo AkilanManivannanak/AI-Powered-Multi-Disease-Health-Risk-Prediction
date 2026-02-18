@@ -8,7 +8,7 @@ The system generates an interpretable, clinician-style report including:
 - per-disease probabilistic risk stratification
 - predicted disease progression (3–5 year horizon)
 - symptom timelines, comorbidity interaction chains, and an immunity impact score
-- explainability artifacts (SHAP + radar chart)
+- explainability artifacts (SHAP + radar chart) 
 
 > Academic project (LIU, AI 681). This is **NOT** a medical device and is **not for clinical diagnosis**. Use for research/education only.
 
