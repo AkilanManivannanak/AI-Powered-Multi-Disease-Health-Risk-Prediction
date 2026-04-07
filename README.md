@@ -2,9 +2,7 @@
 
 ![AI_Medicalproject_coverimage](./AI_Medicalproject_coverimage.png)
 
-# 🏥 AI-Powered Multi-Disease Health Risk Prediction
-
-![AI-Powered Multi-Disease Health Risk Prediction Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:2dd4bf&height=220&section=header&text=AI-Powered%20Multi-Disease%20Health%20Risk%20Prediction🏥&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
+![AI-Powered Multi-Disease Health Risk Prediction Banner](https://capsule-render.vercel.app/api?type=waving&color=0:202124,50:5f6368,100:dadce0&height=220&section=header&text=AI-Powered%20Multi-Disease%20Health%20Risk%20Prediction🏥&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
 **Live repo:** [github.com/AKilalours/AI-Powered-Health-Risk-Prediction-System-for-Multi-Disease-Diagnosis](https://github.com/AKilalours/AI-Powered-Health-Risk-Prediction-System-for-Multi-Disease-Diagnosis)
 
