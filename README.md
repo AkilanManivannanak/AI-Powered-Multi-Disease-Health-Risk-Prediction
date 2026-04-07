@@ -4,6 +4,8 @@
 
 # 🏥 AI-Powered Multi-Disease Health Risk Prediction
 
+![AI-Powered Multi-Disease Health Risk Prediction Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:2dd4bf&height=220&section=header&text=AI-Powered%20Multi-Disease%20Health%20Risk%20Prediction🏥&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
+
 **Live repo:** [github.com/AKilalours/AI-Powered-Health-Risk-Prediction-System-for-Multi-Disease-Diagnosis](https://github.com/AKilalours/AI-Powered-Health-Risk-Prediction-System-for-Multi-Disease-Diagnosis)
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)](https://python.org)
