@@ -357,3 +357,5 @@ This is a collaborative team project — all work was split equally between both
 <sub>Built with scikit-learn · TensorFlow · SHAP · EfficientNetB0 · Random Forest</sub><br/>
 <sub>Academic project (LIU, AI 681) · Akila Lourdes Miriyala Francis & Akilan Manivannan</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:202124,50:5f6368,100:dadce0&height=120&section=footer" width="100%"/>
